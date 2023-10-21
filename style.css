@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "h2";
+    src: url("font/JacquesFrancoisShadow-Regular.ttf");
+}
+@font-face{
+    font-family: "paragrafi";
+    src: url("font/OriginalSurfer-Regular.ttf");
+}
+@font-face{
+    font-family: "paragrafi1";
+    src: url("font/Play-Regular.ttf");
+}
+h2{
+    color: #000;
+    font-family: "h2";
+    margin-top: 19px;
+    margin-left: 2px;
+}
+.paragrafi{
+    color: #000;
+    font-family: "paragrafi";
+    margin-top: 4px;
+    margin-left: 9px;
+
+}
+.paragrafi1{
+    color: #000;
+    font-family: "paragrafi1";
+    text-align: justify;
+    margin-left: 10px;
+}
